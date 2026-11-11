@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 "something is updated" 
 "hello, nice to meet you" 
+<<<<<<< Updated upstream
 "After merged then updated by olaf-patch1 branch." 
 After merger this is changed by main branch.
+=======
+"After merged then updated." 
+=======
+"somwthing is updated" 
+>>>>>>> 8772430 (Create another file once more)
+>>>>>>> Stashed changes
