@@ -1,3 +1,8 @@
 "something is updated" 
 "hello, nice to meet you" 
+<<<<<<< HEAD
 "After merged then updated." 
+=======
+"After merged then updated by olaf-patch1 branch." 
+After merger this is changed by main branch.
+>>>>>>> main
