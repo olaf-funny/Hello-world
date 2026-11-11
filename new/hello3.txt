@@ -1,2 +1,3 @@
-"somwthing is updated" 
+"something is updated" 
 "hello, nice to meet you" 
+"After merged then updated." 
